@@ -17,4 +17,40 @@
 }
 .price{
     color: #ff135f;
+    
+}
+.cat1 , .cat2 , .cat3 {
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: orange;
+    background-image: linear-gradient(to bottom,rgb(228, 151, 8) 10%, orange 100%);
+}
+.cat2{
+    background-image: linear-gradient(to bottom,#ff589b 10%, #ff136f 100%);
+   
+}
+.cat3{
+    background-image: linear-gradient(to bottom,#1232e9 10%, #06089b 100%);
+}
+.cattagories img{
+    width: 100px;
+}
+.cat2 h1{
+    margin-left: 20px;
+}
+.cat2 img{
+    margin-right: 20px;
+}
+div .card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.h-100 img{
+    width: 100%;
+}
+#Shoes{
+    margin-top: 100px;
 }
