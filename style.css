@@ -54,3 +54,14 @@ div .card{
 #Shoes{
     margin-top: 100px;
 }
+.Contact {
+    background-color: #fceae8 ;
+    padding: 50px 50px;
+    border-radius: 10px;
+}
+.Contact p {
+    color: gray;
+}
+footer{
+    color: gray;
+}
